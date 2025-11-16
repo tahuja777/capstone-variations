@@ -12,6 +12,7 @@ This folder contains the initial version of the application. In this version you
 -MCP server setup
 -All paths setup in MCP server for calling individual tool service
 -CSV reading logic
+-CLI setup
 
 What is missing:
 -Remembering the turns conversation
@@ -41,3 +42,8 @@ What is covered
 What is missing
 -CSV reading logic
 -Proper setup of reading KB documents.
+
+How to run application
+-Entry path is /app/graph_agent.py
+-Ensure server is running inside the path
+    - app/servers/mcp_nova/server.py
