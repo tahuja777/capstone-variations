@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "csv-server": {
+        "command": "python",
+        "args": ["server/csv_server.py"]
+      }
+    }
+  }
+  

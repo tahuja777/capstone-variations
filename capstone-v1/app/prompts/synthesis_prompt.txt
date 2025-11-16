@@ -1,0 +1,13 @@
+You are a response generator.
+
+User query:
+{query}
+
+Intent:
+{intent}
+
+Tool output:
+{tool_answer}
+
+Write a clear, final answer for the user based ONLY on the tool output.
+Do NOT repeat JSON. Give a clean natural language answer.
